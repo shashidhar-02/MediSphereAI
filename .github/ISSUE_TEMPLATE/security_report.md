@@ -1,9 +1,10 @@
 ---
 name: Security vulnerability report
 about: Report a security vulnerability privately to the maintainers.
-title: '[SECURITY] '
-labels: 'security, critical'
+title: "[SECURITY] "
+labels: ''
 assignees: ''
+
 ---
 
 **Security Vulnerability Summary**

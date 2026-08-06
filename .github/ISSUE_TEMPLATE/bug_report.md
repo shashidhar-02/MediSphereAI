@@ -1,9 +1,10 @@
 ---
 name: Bug report
 about: Create a report to help us fix a bug or unexpected behavior.
-title: '[BUG] '
-labels: 'bug'
+title: "[BUG] "
+labels: bug
 assignees: ''
+
 ---
 
 **Describe the bug**
