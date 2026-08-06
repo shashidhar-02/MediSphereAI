@@ -1,0 +1,14 @@
+# Enterprise CODEOWNERS Policy for MediSphere AI
+
+# Global Code Owners
+*       @shashidhar-mushike
+
+# Core Security & Infrastructure Owners
+/.github/workflows/    @shashidhar-mushike
+/security/              @shashidhar-mushike
+/infrastructure/        @shashidhar-mushike
+
+# Service Specific Owners
+/backend/               @shashidhar-mushike
+/frontend/              @shashidhar-mushike
+/database/              @shashidhar-mushike
