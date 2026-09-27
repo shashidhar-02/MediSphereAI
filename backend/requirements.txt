@@ -20,7 +20,7 @@ redis>=5.0.7
 qdrant-client>=1.19.1
 
 # ─── AI Agents ──────────────────────────────────────────────────────
-langchain>=0.2.9
+langchain>=1.4.2
 langgraph>=0.1.19
 langchain-community>=0.2.9
 sentence-transformers>=6.1.0
